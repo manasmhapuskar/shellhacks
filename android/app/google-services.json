@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "774023655593",
+    "firebase_url": "https://townsend-shellhacks.firebaseio.com",
+    "project_id": "townsend-shellhacks",
+    "storage_bucket": "townsend-shellhacks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774023655593:android:e872f415e159fc398d39b8",
+        "android_client_info": {
+          "package_name": "com.shellhacks.collegeapp_shellhacks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774023655593-5tb76ofrbrjmfa337939g2mmojije0na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA10FQoPPR6pE71m7UAMZcJT7GgsLqyUSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774023655593-5tb76ofrbrjmfa337939g2mmojije0na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
